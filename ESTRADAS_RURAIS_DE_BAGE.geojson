@@ -1,6 +1,6 @@
-{
+﻿{
 "type": "FeatureCollection",
-"name": "ESTRADA_RURAIS_DE_BAGE",
+"name": "ESTRADAS_RURAIS_DE_BAGE",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
 "features": [
 { "type": "Feature", "properties": { "id_objeto": 2573938, "codtrechor": null, "tipotrecho": "Rodovia", "jurisdicao": "Desconhecida", "administra": "Desconhecida", "concession": null, "revestimen": "Leito natural", "operaciona": "Desconhecido", "situacaofi": "Construída", "nrpistas": 0, "nrfaixas": 0, "trafego": null, "canteirodi": null, "capaccarga": 0.0 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -54.072738663615738, -31.289590120095362 ], [ -54.069537987833804, -31.284914236399246 ], [ -54.069157217390263, -31.272811476154153 ], [ -54.070521729401051, -31.270556635181361 ], [ -54.071163427163846, -31.267250419709981 ], [ -54.071285892687811, -31.262125192356233 ], [ -54.072570679923416, -31.260115634317465 ], [ -54.07597324196955, -31.255899197272825 ], [ -54.078570917709776, -31.250953838581278 ], [ -54.077734905813955, -31.246579072363414 ], [ -54.076019065573995, -31.243456631020479 ], [ -54.07222168471683, -31.237649369166423 ], [ -54.06765543951245, -31.231552225943478 ], [ -54.0657035507407, -31.227244603255645 ] ] ] } },
