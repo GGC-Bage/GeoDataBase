@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "BANCOS_DE_AREIA_ARROIO_BAGE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Nome": "Panela do Candal" }, "geometry": { "type": "Point", "coordinates": [ -54.102622127494904, -31.33543070330942 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nome": "Estrela Dalva" }, "geometry": { "type": "Point", "coordinates": [ -54.09775834919698, -31.335023258035552 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nome": "Ponte Alta" }, "geometry": { "type": "Point", "coordinates": [ -54.097281324786998, -31.332235006761902 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nome": "Passo do 11" }, "geometry": { "type": "Point", "coordinates": [ -54.101569867767004, -31.339962414406212 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nome": "Militão" }, "geometry": { "type": "Point", "coordinates": [ -54.104385247127908, -31.347623285889934 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nome": "Caixeiral" }, "geometry": { "type": "Point", "coordinates": [ -54.108098554789969, -31.353709998597424 ] } },
+{ "type": "Feature", "properties": { "id": null, "Nome": "Caixeiral 2" }, "geometry": { "type": "Point", "coordinates": [ -54.109379973303078, -31.355311489429369 ] } }
+]
+}
