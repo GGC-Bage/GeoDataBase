@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "MARCOS_DE_REFERENCIA",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "local": "EMEI FREDERICO PETRUCCI", "desc": "Marco implantado ao nível do terreno, no canto do pátio do Playground da Escola.", "ALTIMETRIA": 218.98 }, "geometry": { "type": "Point", "coordinates": [ -54.093276216225767, -31.325169478662449 ] } },
+{ "type": "Feature", "properties": { "id": 2, "local": "EMEF PERI CORONEL", "desc": "Marco implantado ao nível do terreno, no pátio dos fundos da Escola Municipal Peri Coronel.", "ALTIMETRIA": 263.24 }, "geometry": { "type": "Point", "coordinates": [ -54.079037778094879, -31.301660538229118 ] } },
+{ "type": "Feature", "properties": { "id": 3, "local": "IFSUL", "desc": "Marco implantado próximo ao limite oeste do terreno, à frente do prédio dos implementos agrícolas.", "ALTIMETRIA": 234.23 }, "geometry": { "type": "Point", "coordinates": [ -54.073124644621274, -31.33186682969065 ] } },
+{ "type": "Feature", "properties": { "id": 4, "local": "CAIXA D´ÁGUA DAEB", "desc": "Marco implantado ao nível do terreno, no canteiro central da Av. Portugal, junto ao monumento do\nLions Internacional.", "ALTIMETRIA": 199.37 }, "geometry": { "type": "Point", "coordinates": [ -54.098549208369981, -31.339457112579531 ] } },
+{ "type": "Feature", "properties": { "id": 5, "local": "EMEF GABRIELA MISTRAL", "desc": "Marco implantado ao nível do terreno, no canto do pátio da Escola Municipal de Ensino\nFundamental Gabriela Mistral.", "ALTIMETRIA": 209.12 }, "geometry": { "type": "Point", "coordinates": [ -54.123090047439895, -31.33805369597691 ] } },
+{ "type": "Feature", "properties": { "id": 6, "local": "EMEF PROFESSOR MIRANDA", "desc": "O marco está no canto do muro, na Rua Professor Miranda, ao\nlado do refeitório da escola.", "ALTIMETRIA": 245.23 }, "geometry": { "type": "Point", "coordinates": [ -54.124637252446597, -31.310513067864729 ] } }
+]
+}
